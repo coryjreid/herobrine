@@ -1,0 +1,11 @@
+[
+{
+  "modid": "herobrine",
+  "name": "Herobrine",
+  "description": "Spawn fake players to keep your farms running.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "authorList": ["WrathDaddy"],
+  "credits": "krad99, GleamingNeptune, LinkToHalo"
+}
+]
